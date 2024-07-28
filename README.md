@@ -7,3 +7,5 @@ The script does the following
 1. Performs liftover from newer Build38 to Build37 genome build.
 2. Removes genotype with low GT Scores
 3. Performs illumina SNP to dbSNP based rsid converion
+
+Note: My base is not bioinformatics, Incase of issues in conversion and improvements pull requests are welcome.
